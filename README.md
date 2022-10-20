@@ -1,2 +1,2 @@
-# git-merge-prepwork
+# second-branch
 git merge conflict prepwork
